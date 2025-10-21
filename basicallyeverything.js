@@ -20,12 +20,26 @@ const songTitle = document.getElementById('song-title');
 const playlist = [
     'music/toby fox - Dont Forget.mp3',
     'music/Aider - A Mothers Love Cover.mp3',
-    'music/toby fox - Last Goodbye.mp3',
-    'music/toby fox - His Theme.mp3',
     'music/toby fox - Hopes And Dreams.mp3',
+    'music/toby fox - His Theme.mp3',
     'music/toby fox - Memory.mp3',
-    'music/Rachie - Rabbit Hole.mp3',
-    'music/CHICKEN JOCKEY.mp3'
+    'music/toby fox - Last Goodbye.mp3',
+    'music/FLAVOR FOLEY - Spoken For.mp3',
+    'music/d4vd - Sleep Well.mp3',
+    'music/d4vd - Celeste.mp3',
+    'music/toby fox - The LEGEND.mp3',
+    'music/toby fox - Vs Susie.mp3',
+    'music/toby fox - THE WORLD REVOLVING.mp3',
+    'music/toby fox - It’s TV Time!.mp3',
+    'music/toby fox - Black Knife.mp3',
+    'music/toby fox - From Now On (Battle 2).mp3',
+    'music/toby fox - Piano that may not be played that well.mp3',
+    'music/toby fox - Hammer of Justice.mp3',
+    'music/toby fox - The Second Sanctuary.mp3',
+    'music/toby fox - The Third Sanctuary.mp3',
+    'music/toby fox - GUARDIAN.mp3',
+    'music/toby fox - Need a hand!.mp3',
+    'music/toby fox - Neverending Night.mp3'
 ];
 
 let currentTrack = 0;
