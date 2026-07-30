@@ -25,8 +25,6 @@ const playlist = [
     'music/toby fox - Memory.mp3',
     'music/toby fox - Last Goodbye.mp3',
     'music/FLAVOR FOLEY - Spoken For.mp3',
-    'music/d4vd - Sleep Well.mp3',
-    'music/d4vd - Celeste.mp3',
     'music/toby fox - The LEGEND.mp3',
     'music/toby fox - Vs Susie.mp3',
     'music/toby fox - THE WORLD REVOLVING.mp3',
@@ -39,7 +37,16 @@ const playlist = [
     'music/toby fox - The Third Sanctuary.mp3',
     'music/toby fox - GUARDIAN.mp3',
     'music/toby fox - Need a hand!.mp3',
-    'music/toby fox - Neverending Night.mp3'
+    'music/toby fox - Neverending Night.mp3',
+    'music/toby fox - 4rd Sanctuary.mp3',
+    'music/toby fox & insaneintherainmusic - Garden of Hopes and Dreams.mp3',
+    'music/toby fox -  Sunset of Seven Suns.mp3',
+    'music/toby fox - Flower Castle.mp3',
+    'music/toby fox - Petal Dance.mp3',
+    'music/toby fox - Running Sky.mp3',
+    'music/toby fox - Cutie Mew Mew Magic.mp3',
+    'music/toby fox - Flower Man.mp3',
+    'music/toby fox & Trevor Alan Gomes - Field of Hopes and Dreams (From -DELTARUNE Piano Collections Vol. 1-) (Credits Version).mp3'
 ];
 
 let currentTrack = 0;
